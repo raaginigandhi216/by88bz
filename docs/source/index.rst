@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+BY88 - Link Vào Cổng Game By88.com Uy Tín Nhất 2025
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`By88 <https://by88.bz/>`_ là một trong những cổng game bài đổi thưởng uy tín và được yêu thích nhất hiện nay, thu hút hàng triệu người chơi mỗi ngày. BY88 cung cấp đa dạng trò chơi như game bài (Poker, Baccarat, Tiến Lên), slot game với nhiều chủ đề hấp dẫn, cùng thể thao trên các giải đấu lớn. BY88 nổi bật với các chương trình khuyến mãi hấp dẫn, hệ thống thanh toán nhanh chóng, và dịch vụ hỗ trợ khách hàng 24/7, mang đến trải nghiệm giải trí tiện lợi, an toàn và thú vị cho người chơi trên cả website và ứng dụng di động.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 955 Hồng Bàng, Phường 9, Quận 6, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0861100135. 
 
-Contents
---------
+Email: info@by88.bz. 
 
-.. toctree::
+Website: https://by88.bz/
 
-   usage
-   api
+#by88 #trangchuby88 #dangkyby88 #dangnhapby88 #linkby88
